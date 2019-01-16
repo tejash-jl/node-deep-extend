@@ -51,19 +51,22 @@ deepExtend(obj1, obj2);
 
 console.log(obj1);
 /*
-{ a: 1,
+{ 
+	a: 1,
   b: 3,
   d:
    { a: 1,
      b: { first: 'one', second: 'two' },
-     c: { test1: 123, test2: 222 } },
+     c: { test1: 123, test2: 222 } 
+	 },
   f: [],
   g: undefined,
   c: 5,
   e: { one: 1, two: 2 },
   h: /abc/g,
   i: null,
-  j: [3, 4] }
+  j: [3, 4] 
+}
 */
 ```
 
